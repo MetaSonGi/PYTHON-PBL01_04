@@ -25,6 +25,7 @@
 ### 1. 반구체의 면적 (겉면적)
 
 \[
+
 A=2×π×r 
 
 \]
@@ -38,10 +39,10 @@ A=2×π×r
 
 돔은 단순히 겉면적만 있는 것이 아니라 두께를 가진 “껍데기” 형태이므로, 다음과 같이 부피를 계산한다:
 
-\[
+
+
 ![image](https://github.com/user-attachments/assets/745d4af0-bf04-40d1-bbb3-2b970df77da6)
 
-\]
 
 - \( R_{\text{outer}} \) = 바깥쪽 반지름 (cm)
 - \( R_{\text{inner}} \) = 안쪽 반지름 (cm)
@@ -50,16 +51,15 @@ A=2×π×r
 
 ### 3. 무게 계산
 
-\[
+
 ![image](https://github.com/user-attachments/assets/58af2234-545f-4f02-959a-b0e256f4c4d4)
 
-\]
 
 단, 화성의 중력을 반영하기 위해:
 
-\[
+
 ![image](https://github.com/user-attachments/assets/1f9e1504-e95f-4a38-baae-9aff8c267743)
-\]
+
 
 ---
 
