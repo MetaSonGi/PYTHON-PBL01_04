@@ -1,5 +1,3 @@
-# rend.md
-
 ## 📌 프로젝트 개요
 
 **파일명**: `design_dome.py`
@@ -27,7 +25,8 @@
 ### 1. 반구체의 면적 (겉면적)
 
 \[
-A = 2 \times \pi \times r^2
+A=2×π×r 
+
 \]
 
 - \( A \) = 돔의 겉면적 (㎡)
@@ -40,7 +39,8 @@ A = 2 \times \pi \times r^2
 돔은 단순히 겉면적만 있는 것이 아니라 두께를 가진 “껍데기” 형태이므로, 다음과 같이 부피를 계산한다:
 
 \[
-V_{\text{돔}} = \frac{2}{3} \pi \left( R_{\text{outer}}^3 - R_{\text{inner}}^3 \right)
+![image](https://github.com/user-attachments/assets/745d4af0-bf04-40d1-bbb3-2b970df77da6)
+
 \]
 
 - \( R_{\text{outer}} \) = 바깥쪽 반지름 (cm)
@@ -51,13 +51,14 @@ V_{\text{돔}} = \frac{2}{3} \pi \left( R_{\text{outer}}^3 - R_{\text{inner}}^3 
 ### 3. 무게 계산
 
 \[
-\text{Weight (kg)} = \frac{V_{\text{돔}} \times \text{밀도}}{1000}
+![image](https://github.com/user-attachments/assets/58af2234-545f-4f02-959a-b0e256f4c4d4)
+
 \]
 
 단, 화성의 중력을 반영하기 위해:
 
 \[
-\text{Weight}_{\text{Mars}} = \text{Weight}_{\text{Earth}} \times \left(\frac{3.721}{9.80665}\right)
+![image](https://github.com/user-attachments/assets/1f9e1504-e95f-4a38-baae-9aff8c267743)
 \]
 
 ---
